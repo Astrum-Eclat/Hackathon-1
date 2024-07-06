@@ -8,11 +8,11 @@ Join us for an immersive event where talented developers, designers, and innovat
 
 ### Hackathon Format:
 
-**Day 1 - Programming Challenge**
+**Day 1 - Programming Challenge,** [link](https://docs.google.com/forms/d/1uFnRY4o1fPvg2V2deZWT4HU_FVOX8UIUGMILoKLX_EM) Opens on 12 July 2024 at 5PM - 7PM
 - Engage in our curated set of programming questions designed to test your skills and problem-solving abilities. Show off your coding prowess and earn points towards your final project score!
 
-**Day 2 - Project Development**
-- Dedicate the day to developing your individual project. Focus on an innovative solution to a real-world problem of your choice. Demonstrate your technical expertise and creativity in this hands-on session.
+**Day 2 - Project Development** [link](https://docs.google.com/forms/d/1eDsjIXWe0il5PRFKSVI9CEKEihYsMi1nqynLLV9xirE) Opens on 13 July 2024 at 4PM - 7PM
+- Dedicate the day to developing your individual project. Focus on an innovative solution to a real-world problem of your choice. Demonstrate your technical expertise and creativity in this hands-on session. Theme will be decided on this same day.
 
 ### Why Join Astrum Éclat's Hackathon?
 
