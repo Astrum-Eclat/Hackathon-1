@@ -33,7 +33,7 @@ Join us for an immersive event where talented developers, designers, and innovat
 
 send this to your friends and colleagues who might be interested in joining this exciting individual person hackathon. Let's innovate, and create together!
 
-📧 **Questions**: Reach out to us at [astrumeclat@outlook.com](astrumeclat@outlook.com) for any inquiries.
+📧 **Questions**: Reach out to us at [astrumeclat@gmail.com](astrumeclat@gmail.com) for any inquiries.
 
 Get ready to hack the future with Astrum Éclat! See you there! 🚀💻✨
 
